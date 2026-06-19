@@ -1,4 +1,8 @@
-export const shortcuts = [
+export type Shortcut = {
+  name: string
+  url: string
+}
+export const shortcuts: Shortcut[] = [
   { name: "YouTube", url: "https://www.youtube.com/" },
   { name: "Notion", url: "https://www.notion.so/" },
   { name: "Gmail", url: "https://mail.google.com/" },
