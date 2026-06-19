@@ -25,4 +25,5 @@ export const shortcuts: Shortcut[] = [
   { name: "W3schools", url: "https://www.w3schools.com/" },
   { name: "whatsapp", url: "https://web.whatsapp.com/" },
   { name: "Tech Icons", url: "https://techicons.dev/" },
+  { name: "V0", url: "https://v0.app/" },
 ]
