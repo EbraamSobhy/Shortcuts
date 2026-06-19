@@ -18,6 +18,6 @@
   </nav>
 </template>
 
-<script setup>
+<script setup lang="ts">
 const search = defineModel()
 </script>
