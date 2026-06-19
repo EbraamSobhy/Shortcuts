@@ -31,8 +31,7 @@ case "$choice" in
 
     2)
         git add .
-        read -p "Commit message: " msg
-        git commit -m "$msg"
+        git commit -m "changes"
         git push
         ;;
 
