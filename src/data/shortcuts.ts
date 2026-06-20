@@ -20,7 +20,6 @@ export const shortcuts: Shortcut[] = [
   { name: "Perplexity", url: "https://www.perplexity.ai/" },
   { name: "Firebase", url: "https://console.firebase.google.com/" },
   { name: "YouTube Music", url: "https://music.youtube.com/browse/FEmusic_offline" },
-  { name: "Shenouda Tattoos", url: "https://www.shenoudatattoos.com/" },
   { name: "GeeksforGeeks", url: "https://www.geeksforgeeks.org/" },
   { name: "W3schools", url: "https://www.w3schools.com/" },
   { name: "whatsapp", url: "https://web.whatsapp.com/" },
